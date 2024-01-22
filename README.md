@@ -65,6 +65,13 @@ Abra "http://localhost:3000" para verlo en su navegador. </p>
 + App
 + navigations
 + routes
++ 
+#### Capturas de pantalla
+<img width="480" alt="Preview1" src="https://github.com/OyasumiiAlex/unach-sspp/assets/44487342/b1e4d6aa-fbe2-418f-9c75-d032f9fb9da6">
+<img width="480" alt="Preview2" src="https://github.com/OyasumiiAlex/unach-sspp/assets/44487342/a6d7b9b3-2da1-419c-b145-2529d4952017">
+<img width="480" alt="Preview3" src="https://github.com/OyasumiiAlex/unach-sspp/assets/44487342/6f6c9771-4480-4874-9524-a7eb0ba68ccc">
+<img width="480" alt="Preview4" src="https://github.com/OyasumiiAlex/unach-sspp/assets/44487342/8516e645-16ec-4f47-8b7b-7fa1ff2982c3">
+
+
 
 #### Licencia (MIT License)
-#### Capturas de pantalla
