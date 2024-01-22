@@ -1,3 +1,4 @@
+![Sitio Web con React](https://github.com/OyasumiiAlex/unach-sspp/assets/44487342/7c6b49b0-a4ed-4957-ae53-a12012920034)
 
 ##  UNACH SS y PP
 
@@ -9,7 +10,7 @@ de Servicio Social y Prácticas Profesionales por medio de un software en entorn
 #### Estado del Proyecto
 <p> En desarrollo </p>
 
->[!IMPORTANT]
+> [!IMPORTANT]
 
 #### Instalar & ejecutar
 <p> In the project directory, you can run: | En el directorio del proyecto, ejecute: </p>
@@ -19,6 +20,7 @@ de Servicio Social y Prácticas Profesionales por medio de un software en entorn
 <p>Una vez finalizada la instalacion, ejecute: | Once the installation is complete, u can run: </p></p>
 
 `$ npm start`
+
 `$ npm run start`
 
 <p>Runs the app in the development mode.\ <br>
@@ -26,7 +28,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser. 
 Ejecuta la aplicación en modo de desarrollo.\ <br>
 Abra [http://localhost:3000](http://localhost:3000) para verlo en su navegador. </p>
 
->[!NOTE]
+> [!NOTE]
 
 #### Carpeta de vistas
                 
