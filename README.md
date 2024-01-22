@@ -13,14 +13,17 @@ de Servicio Social y Prácticas Profesionales por medio de un software en entorn
 > [!IMPORTANT]
 > Antes de ejecutar tome en cuenta
 
+#### Instalar NodeJs
+<p>Asegúrate de tener Node.js (el administrador de paquetes de Node) instalados en tu máquina. Puedes descargar e instalar Node.js desde su sitio oficial.</p>
+
 #### Instalar & ejecutar
-<p> In the project directory, you can run: | En el directorio del proyecto, ejecute: </p>
+<p> En el directorio del proyecto, ejecute: </p>
 
 ```bash
 npm install
 ```
 
-<p>Una vez finalizada la instalacion, ejecute: | Once the installation is complete, u can run: </p></p>
+<p>Una vez finalizada la instalacion, ejecute: </p></p>
 
 ```bash
 npm start
@@ -29,9 +32,7 @@ npm start
 npm run start
 ```
 
-<p>Runs the app in the development mode.<br>
-Open "http://localhost:3000" to view it in your browser. <br>
-Ejecuta la aplicación en modo de desarrollo. <br>
+<p>Ejecuta la aplicación en modo de desarrollo. <br>
 Abra "http://localhost:3000" para verlo en su navegador. </p>
 
 > [!NOTE]
