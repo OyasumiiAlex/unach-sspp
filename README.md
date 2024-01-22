@@ -11,24 +11,31 @@ de Servicio Social y Prácticas Profesionales por medio de un software en entorn
 <p> En desarrollo </p>
 
 > [!IMPORTANT]
+> Antes de ejecutar tome en cuenta
 
 #### Instalar & ejecutar
 <p> In the project directory, you can run: | En el directorio del proyecto, ejecute: </p>
 
-`$ npm install`
+```bash
+npm install
+```
 
 <p>Una vez finalizada la instalacion, ejecute: | Once the installation is complete, u can run: </p></p>
 
-`$ npm start`
+```bash
+npm start
+```
+```bash
+npm run start
+```
 
-`$ npm run start`
-
-<p>Runs the app in the development mode.\ <br>
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser. <br>
-Ejecuta la aplicación en modo de desarrollo.\ <br>
-Abra [http://localhost:3000](http://localhost:3000) para verlo en su navegador. </p>
+<p>Runs the app in the development mode.<br>
+Open "http://localhost:3000" to view it in your browser. <br>
+Ejecuta la aplicación en modo de desarrollo. <br>
+Abra "http://localhost:3000" para verlo en su navegador. </p>
 
 > [!NOTE]
+> Aqui se encuentra la estructura del proyecto
 
 #### Carpeta de vistas
                 
