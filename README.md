@@ -1,4 +1,4 @@
-![ReactProyectBG](https://github.com/OyasumiiAlex/unach-sspp/assets/44487342/ade2e61e-19fc-42a2-8480-f33ee5a3a5f2)
+![Sitio Web con React](https://github.com/OyasumiiAlex/unach-sspp/assets/44487342/8827146d-0d71-48d1-80a4-47ae2f7a6ed8)
 ##  UNACH SS y PP
 
 #### Descripción
