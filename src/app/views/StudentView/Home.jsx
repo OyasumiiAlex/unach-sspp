@@ -18,7 +18,7 @@ export const Home = () => {
                 <Stack spacing={2}>
                     <div>
                         <Typography variant="h6">
-                            Perfil del alumno
+                            Perfil del alumno unach
                         </Typography>
                     </div>
                     <Grid container spacing={1}>
