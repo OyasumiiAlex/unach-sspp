@@ -8,7 +8,7 @@ prácticas profesionales de la Facultad de Negocios UNACH C-IV en el área de Co
 de Servicio Social y Prácticas Profesionales por medio de un software en entorno web.</p>
 
 #### Estado del Proyecto
-<p> En desarrollo </p>
++ Finalizado 
 
 > [!IMPORTANT]
 > Antes de ejecutar tome en cuenta
